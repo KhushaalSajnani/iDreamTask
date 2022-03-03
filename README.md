@@ -1,1 +1,3 @@
 # iDreamTask
+
+switch to master branch and you can git clone the code...
